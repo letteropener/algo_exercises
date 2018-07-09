@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24c5fb1d-c71b-424b-a55b-15051c391814" name="Default" comment="" />
+    <list default="true" id="24c5fb1d-c71b-424b-a55b-15051c391814" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/StoneWall.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Fish.py" afterPath="$PROJECT_DIR$/Fish.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="Fish.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fish.py">
+      <file leaf-file-name="StoneWall.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StoneWall.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="212">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,6 +64,7 @@
         <option value="$PROJECT_DIR$/Nesting.py" />
         <option value="$PROJECT_DIR$/Brackets.py" />
         <option value="$PROJECT_DIR$/Fish.py" />
+        <option value="$PROJECT_DIR$/StoneWall.py" />
       </list>
     </option>
   </component>
@@ -115,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MinAvgTwoSlice">
+  <component name="RunManager" selected="Python.StoneWall">
     <configuration name="Distinct" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,6 +193,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="StoneWall" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="algo_exercise" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StoneWall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,24 +224,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="codility_exercises" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="scratch_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="codility_exercises" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +317,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.scratch_17" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Nesting" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Fish" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Distinct" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MinAvgTwoSlice" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Nesting" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Fish" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Distinct" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MinAvgTwoSlice" />
+      <item index="4" class="java.lang.String" itemvalue="Python.StoneWall" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MinAvgTwoSlice" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Distinct" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Fish" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Nesting" />
-        <item index="4" class="java.lang.String" itemvalue="Python.scratch_17" />
+        <item index="0" class="java.lang.String" itemvalue="Python.StoneWall" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Fish" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MinAvgTwoSlice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Distinct" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Nesting" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +391,7 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -574,8 +579,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fish.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="316">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StoneWall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
